@@ -15,7 +15,7 @@ from alive_progress import alive_bar
 '''
 
 styles = [
-    # 'Baroque', 
+    'Baroque', 
     'High_Renaissance',
     'Northern_Renaissance',
     'Mannerism_Late_Renaissance',
