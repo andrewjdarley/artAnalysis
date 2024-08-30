@@ -1,0 +1,9 @@
+# Ignore PNG images
+*.png
+
+# Ignore JPG and JPEG images
+*.jpg
+*.jpeg
+
+*.yml
+*.weights.h5
